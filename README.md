@@ -14,38 +14,21 @@
 - HTML, CSS, JavaScript
 - Frontend Frameworks (e.g., React, Vue)
 - Backend Technologies (e.g., Node.js, Express)
-- Database Management (e.g., MongoDB, MySQL)
+- Database Management (e.g., MySQL)
 - Version Control (e.g., Git, GitHub)
 - Responsive Web Design
 - UI/UX Design
 - Problem Solving
 
-## Projects
-
-Here are some of the projects I've worked on:
-
-1. **Project Name 1**
-   - Description: Brief description of the project.
-   - Technologies Used: List the technologies or tools used.
-   - [Link to Project](#) - If available.
-
-2. **Project Name 2**
-   - Description: Brief description of the project.
-   - Technologies Used: List the technologies or tools used.
-   - [Link to Project](#) - If available.
-
-3. **Project Name 3**
-   - Description: Brief description of the project.
-   - Technologies Used: List the technologies or tools used.
-   - [Link to Project](#) - If available.
 
 ## Contact
 
 Feel free to connect with me:
 
-- 📧 Email: your.email@example.com
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- 📧 Email: sarthakthakur608@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/sarthak-singh-294997269
+
+
 
 ## Hire Me
 
